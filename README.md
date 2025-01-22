@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+https://github.com/user-attachments/assets/f68defa1-1f27-472c-8094-c64b4f401e0e
+
 ## 🌟 Overview
 A modern, responsive personal portfolio website showcasing professional experience, projects, and technical skills. Built with HTML5, CSS3, and JavaScript, featuring smooth animations and an interactive user interface.
 
@@ -27,10 +29,6 @@ A modern, responsive personal portfolio website showcasing professional experien
    - Personal background
    - Professional journey
    - Key achievements
-
-
-https://github.com/user-attachments/assets/f68defa1-1f27-472c-8094-c64b4f401e0e
-
 
 3. **Skills**
    - Technical skills with progress bars
